@@ -5,6 +5,7 @@ I am currently studying software (Web) development in Coding dojo 🖥, I intere
 ### I love drawing 🎨.
 
 ### 📫 How to reach me: 
+- Gmail : SaraSaeed.gh@gmail.com
 - Twitter : https://twitter.com/ProgrSara
 - Linked in : https://www.linkedin.com/in/sarasaeed-alghamdi
 - codepen : https://codepen.io/Sara-gh
