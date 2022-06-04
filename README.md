@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm Sara and I love Self Learning & Coding 👩🏻‍💻
+
 
 <!--
 **SaraSaeed1/SaraSaeed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
