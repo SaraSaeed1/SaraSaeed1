@@ -1,4 +1,8 @@
-<h1 align="center"> Hi, I'm Sara Alghamdi </h1>
+<div style="    display: flex;
+    align-items: center;">
+  <img src="https://komarev.com/ghpvc/?username=SaraSaeed1&label=Profile%20views&color=0e75b6&style=flat" alt="Sara Saeed"/>
+  <h1> Hi, I'm Sara Alghamdi </h1>
+</div>
 
 I love Self Learning & Coding 👩🏻‍💻
 
@@ -35,7 +39,6 @@ I am currently studying software (Web) development in Coding dojo 🖥, I intere
 
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaraSaeed1&" alt="Sara Alghamdi" /></p>
-
 
 <!--
 **SaraSaeed1/SaraSaeed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
