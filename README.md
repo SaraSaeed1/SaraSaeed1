@@ -1,7 +1,5 @@
-<div style="    display: flex;
-    align-items: center;">
-  <img src="https://komarev.com/ghpvc/?username=SaraSaeed1&label=Profile%20views&color=0e75b6&style=flat" alt="Sara Saeed"/>
-  <h1> Hi, I'm Sara Alghamdi </h1>
+<img src="https://komarev.com/ghpvc/?username=SaraSaeed1&label=Profile%20views&color=0e75b6&style=flat" alt="Sara Saeed"/>
+  <h1 align="center" > Hi, I'm Sara Alghamdi 👩🏻‍💻</h1>
 </div>
 
 I love Self Learning & Coding 👩🏻‍💻
