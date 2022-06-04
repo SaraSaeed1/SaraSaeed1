@@ -4,9 +4,10 @@ I love Self Learning & Coding 👩🏻‍💻
 
 I am currently studying software (Web) development in Coding dojo 🖥, I interested in Front-End, AI and Design.
 
+**📫 How to reach me:** SaraSaeed.gh@gmail.com
+
 **⚡ Fun fact:** I love drawing 🎨 and photography 📷.
 
-**📫 How to reach me:** SaraSaeed.gh@gmail.com
 
 
 ### Connect with me:
