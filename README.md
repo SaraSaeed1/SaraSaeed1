@@ -1,6 +1,14 @@
 ### Hi there 👋
 ### I'm Sara and I love Self Learning & Coding 👩🏻‍💻
 
+I am currently studying software (Web) development in Coding dojo 🖥, I interested in Front-End, AI and Design.
+### I love drawing 🎨.
+
+### 📫 How to reach me: 
+- Twitter : https://twitter.com/ProgrSara
+- Linked in : https://www.linkedin.com/in/sarasaeed-alghamdi
+- codepen : https://codepen.io/Sara-gh
+
 
 <!--
 **SaraSaeed1/SaraSaeed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
