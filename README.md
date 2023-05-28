@@ -31,7 +31,9 @@ I love Self Learning & Solve algorithms 👩🏻‍💻
  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/> </a> <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> <a href="https://reactjs.org/tutorial/tutorial.html" target="_blank" rel="noreferrer">
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="40" height="40"/> </a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaraSaeed1&show_icons=true&locale=en&layout=compact" alt="Sara Alghamdi" /></p>
   <pr>
